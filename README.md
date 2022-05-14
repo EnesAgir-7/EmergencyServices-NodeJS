@@ -1,6 +1,6 @@
 # EmergencyServices-NodeJS
 find nearest volunteers location 
-Use Case (UML: Use Case) 
+Use Case<br>
 
 For instance, 
   There is an individual at a home, the person suddenly has a medical emergency. 
